@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-    <h1>Vladislav Khorev Resume</h1>
+    <h1>Vladislav Khorev Resume </h1>
     <div className="container">
       <ExperienceFrame>
         <Card name="C++" years={15}/>
